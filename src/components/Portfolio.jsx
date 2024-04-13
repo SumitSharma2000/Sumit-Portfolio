@@ -2,6 +2,7 @@ import React from "react";
 import RecipeApp from "../assets/portfolio/RecipeApp.png"
 import ChatApp from "../assets/portfolio/ChatApp.png"
 import ExpenseTracker from "../assets/portfolio/ExpenseTracker.png"
+import TodoApp from '../assets/portfolio/todo.png'
 
 
 const Portfolio = () => {
@@ -18,10 +19,10 @@ const Portfolio = () => {
       id: 3,
       src: ExpenseTracker,
     },
-    // {
-    //   id: 4,
-    //   src: WhetherApp,
-    // },
+    {
+      id: 4,
+      src: TodoApp,
+    },
   ];
 
   return (
