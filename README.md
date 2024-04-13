@@ -1,70 +1,67 @@
-# Getting Started with Create React App
+Awesome Portfolio Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to my awesome portfolio website! This website is built using React for frontend development, Tailwind CSS for styling, and other technologies to create a stunning and responsive portfolio showcase.
 
-## Available Scripts
+Features:
 
-In the project directory, you can run:
+Interactive Design: Utilizing modern design principles and animations to create an engaging user experience.
 
-### `npm start`
+Responsive Layout: Ensuring the website looks great and functions flawlessly across all devices and screen sizes.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Portfolio Showcase: Showcasing my projects, skills, and experiences in an organized and visually appealing manner.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Contact Form: Allowing visitors to easily get in touch with me through a contact form.
 
-### `npm test`
+Technologies Used:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+React: A powerful JavaScript library for building user interfaces, used for frontend development.
 
-### `npm run build`
+Tailwind CSS: A utility-first CSS framework for rapidly building custom designs, used for styling the website.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+React Router: A routing library for React, used for navigation and routing between different pages of the portfolio.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Formik: A form library for React, used for handling form validation and submission in the contact form.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Netlify: A cloud computing company that offers hosting and serverless backend services, used for deploying the portfolio website.
 
-### `npm run eject`
+Installation:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Clone the repository:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+git clone https://github.com/sumitsharma2000/portfolio-website.git
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Navigate to the project directory:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+cd portfolio-website
 
-## Learn More
+Install dependencies:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+npm install
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Start the development server:
 
-### Code Splitting
+npm start
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+The website should now be running locally on http://localhost:3000.
 
-### Analyzing the Bundle Size
+Usage:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Explore the different sections of the portfolio, including projects, skills, experiences, and contact information.
 
-### Making a Progressive Web App
+Click on project cards to view detailed information about each project, including descriptions, technologies used, and links to live demos or GitHub repositories.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Fill out the contact form to get in touch with me. All submissions are securely handled and sent to my email address.
 
-### Advanced Configuration
+Contributing:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
 
-### Deployment
+![Screenshot (173)](https://github.com/SumitSharma2000/Sumit-Portfolio/assets/94536005/c554b93a-ef7d-4814-bd0b-97b547fcddb9)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+![Screenshot (174)](https://github.com/SumitSharma2000/Sumit-Portfolio/assets/94536005/ceed2338-42b4-47f4-9bac-d827bcc717c4)
 
-### `npm run build` fails to minify
+![Screenshot (175)](https://github.com/SumitSharma2000/Sumit-Portfolio/assets/94536005/10b6b7e8-18fd-4769-8758-9b9c6640f68b)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Screenshot (176)](https://github.com/SumitSharma2000/Sumit-Portfolio/assets/94536005/c36dbfbc-eff8-4150-901a-65475c305d4e)
+
+![Screenshot (177)](https://github.com/SumitSharma2000/Sumit-Portfolio/assets/94536005/67fd17be-84d7-40c2-83b3-d4445a5c42a1)
