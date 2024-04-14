@@ -3,6 +3,7 @@ import RecipeApp from "../assets/portfolio/RecipeApp.png"
 import ChatApp from "../assets/portfolio/ChatApp.png"
 import ExpenseTracker from "../assets/portfolio/ExpenseTracker.png"
 import TodoApp from '../assets/portfolio/todo.png'
+import BlogWebsite from '../assets/portfolio/Blog Website.png'
 
 
 const Portfolio = () => {
@@ -22,6 +23,10 @@ const Portfolio = () => {
     {
       id: 4,
       src: TodoApp,
+    },
+    {
+      id: 5,
+      src: BlogWebsite,
     },
   ];
 
