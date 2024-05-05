@@ -4,6 +4,7 @@ import ChatApp from "../assets/portfolio/ChatApp.png"
 import ExpenseTracker from "../assets/portfolio/ExpenseTracker.png"
 import TodoApp from '../assets/portfolio/todo.png'
 import BlogWebsite from '../assets/portfolio/Blog Website.png'
+import CredClone from '../assets/portfolio/CredClone.png'
 
 
 const Portfolio = () => {
@@ -27,6 +28,10 @@ const Portfolio = () => {
     {
       id: 5,
       src: BlogWebsite,
+    },
+    {
+      id: 6,
+      src: CredClone,
     },
   ];
 
