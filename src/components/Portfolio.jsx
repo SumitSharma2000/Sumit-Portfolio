@@ -2,7 +2,6 @@ import React from "react";
 import RecipeApp from "../assets/portfolio/RecipeApp.png";
 import ChatApp from "../assets/portfolio/ChatApp.png";
 import ExpenseTracker from "../assets/portfolio/ExpenseTracker.png";
-import TodoApp from '../assets/portfolio/todo.png';
 import BlogWebsite from '../assets/portfolio/Blog Website.png';
 import CredClone from '../assets/portfolio/CredClone.png';
 import WeatherWise from '../assets/portfolio/WeatherWise.png';
