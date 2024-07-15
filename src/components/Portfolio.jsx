@@ -2,7 +2,7 @@ import React from "react";
 import RecipeApp from "../assets/portfolio/RecipeApp.png";
 import ChatApp from "../assets/portfolio/ChatApp.png";
 import ExpenseTracker from "../assets/portfolio/ExpenseTracker.png";
-import BlogWebsite from '../assets/portfolio/Blog Website.png';
+import BlogWebsite from '../assets/portfolio/BlogWebsite.png';
 import CredClone from '../assets/portfolio/CredClone.png';
 import WeatherWise from '../assets/portfolio/WeatherWise.png';
 import ZaikaBazaar from '../assets/portfolio/ZaikaBazaar.png';
@@ -18,8 +18,8 @@ const Portfolio = () => {
     {
       id: 2,
       src: ChatApp,
-      demo: "https://chat-app-by-sumit.vercel.app/",
-      github: "https://github.com/SumitSharma2000/Chat-App",
+      demo: "https://vercel.com/sumitsharma2000s-projects/gup-shup",
+      github: "https://github.com/SumitSharma2000/Gup-Shup",
     },
     {
       id: 3,
@@ -56,7 +56,7 @@ const Portfolio = () => {
   return (
     <div
       name="portfolio"
-      className="bg-gradient-to-b from-black to-gray-800 w-full text-white md:h-screen"
+      className="w-full bg-gradient-to-b from-black via-black to-gray-800 text-white pt-16 pb-16"
     >
       <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full">
         <div className="pb-8">
@@ -68,13 +68,13 @@ const Portfolio = () => {
 
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-8 px-12 sm:px-0">
           {portfolios.map(({ id, src, demo, github }) => (
-            <div key={id} className="shadow-md shadow-gray-600 rounded-lg">
+            <div key={id} className="flex flex-col shadow-md shadow-gray-600 rounded-lg h-full">
               <img
                 src={src}
                 alt=""
-                className="rounded-md duration-200 hover:scale-105"
+                className="rounded-md duration-200 hover:scale-105 flex-grow"
               />
-              <div className="flex items-center justify-center">
+              <div className="flex items-center justify-center mt-auto">
                 <a
                   href={demo}
                   target="_blank"
