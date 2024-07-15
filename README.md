@@ -1,58 +1,56 @@
-Awesome Portfolio Website
+# Awesome Portfolio Website
 
 Welcome to my awesome portfolio website! This website is built using React for frontend development, Tailwind CSS for styling, and other technologies to create a stunning and responsive portfolio showcase.
 
-Features:
+## Features:
 
-Interactive Design: Utilizing modern design principles and animations to create an engaging user experience.
+- Interactive Design: Utilizing modern design principles and animations to create an engaging user experience.
 
-Responsive Layout: Ensuring the website looks great and functions flawlessly across all devices and screen sizes.
+- Responsive Layout: Ensuring the website looks great and functions flawlessly across all devices and screen sizes.
 
-Portfolio Showcase: Showcasing my projects, skills, and experiences in an organized and visually appealing manner.
+- Portfolio Showcase: Showcasing my projects, skills, and experiences in an organized and visually appealing manner.
 
-Contact Form: Allowing visitors to easily get in touch with me through a contact form.
+- Contact Form: Allowing visitors to easily get in touch with me through a contact form.
 
-Technologies Used:
+## Technologies Used:
 
-React: A powerful JavaScript library for building user interfaces, used for frontend development.
+- React: A powerful JavaScript library for building user interfaces, used for frontend development.
 
-Tailwind CSS: A utility-first CSS framework for rapidly building custom designs, used for styling the website.
+- Tailwind CSS: A utility-first CSS framework for rapidly building custom designs, used for styling the website.
 
-React Router: A routing library for React, used for navigation and routing between different pages of the portfolio.
+- React Router: A routing library for React, used for navigation and routing between different pages of the portfolio.
 
-Formik: A form library for React, used for handling form validation and submission in the contact form.
+- Formik: A form library for React, used for handling form validation and submission in the contact form.
 
-Netlify: A cloud computing company that offers hosting and serverless backend services, used for deploying the portfolio website.
+- Netlify: A cloud computing company that offers hosting and serverless backend services, used for deploying the portfolio website.
 
-Installation:
+## Installation:
 
-Clone the repository:
+Clone the repository: git clone https://github.com/sumitsharma2000/portfolio-website.git
 
-git clone https://github.com/sumitsharma2000/portfolio-website.git
+## Navigate to the project directory:
 
-Navigate to the project directory:
+- cd portfolio-website
 
-cd portfolio-website
+## Install dependencies:
 
-Install dependencies:
+- npm install
 
-npm install
+## Start the development server:
 
-Start the development server:
-
-npm start
+- npm start
 
 The website should now be running locally on http://localhost:3000.
 
-Usage:
+## Usage:
 
-Explore the different sections of the portfolio, including projects, skills, experiences, and contact information.
+- Explore the different sections of the portfolio, including projects, skills, experiences, and contact information.
 
-Click on project cards to view detailed information about each project, including descriptions, technologies used, and links to live demos or GitHub repositories.
+- Click on project cards to view detailed information about each project, including descriptions, technologies used, and links to live demos or GitHub repositories.
 
-Fill out the contact form to get in touch with me. All submissions are securely handled and sent to my email address.
+- Fill out the contact form to get in touch with me. All submissions are securely handled and sent to my email address.
 
-Contributing:
+## Contributing:
 
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
 
