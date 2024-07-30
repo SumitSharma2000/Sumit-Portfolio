@@ -6,6 +6,7 @@ import BlogWebsite from '../assets/portfolio/BlogWebsite.png';
 import CredClone from '../assets/portfolio/CredClone.png';
 import WeatherWise from '../assets/portfolio/WeatherWise.png';
 import ZaikaBazaar from '../assets/portfolio/ZaikaBazaar.png';
+import CloudSafe from '../assets/portfolio/CloudSafe.png';
 
 const Portfolio = () => {
   const portfolios = [
@@ -50,6 +51,13 @@ const Portfolio = () => {
       src: ZaikaBazaar,
       demo: "https://zaika-bazaar.vercel.app",
       github: "https://github.com/SumitSharma2000/ZaikaBazaar",
+    },
+    { 
+      id: 8,
+      src: CloudSafe,
+      demo: "https://cloudhome-frontend.vercel.app/",
+      github: "https://github.com/SumitSharma2000/CloudhomeFrontend",
+      
     }
   ];
 
